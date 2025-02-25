@@ -21,7 +21,7 @@ The AWS Certified Cloud Practitioner exam is designed to introduce you to AWS an
 
 Certification is essentially a low-risk investment in your career with nothing to lose and much to gain.
 
-## Exam Booking
+## Exam Booking:
 
 - **When to Book:**  
   - It’s recommended to book your exam only after you feel confident with the material to avoid the need for rebooking.
@@ -29,7 +29,7 @@ Certification is essentially a low-risk investment in your career with nothing t
 
 ## Efficient Studying & Study Resources
 
-### How I Initially Studied
+### How I Initially Studied:
 
 1. **Course-Based Learning:**
    - Watched the [Academind AWS Certified Cloud Practitioner (CLF-C02) Udemy course](https://www.udemy.com/course/aws-cloud-practitioner-complete-aws-introduction/?couponCode=KEEPLEARNING) at 2X speed.
@@ -47,25 +47,25 @@ Certification is essentially a low-risk investment in your career with nothing t
 ### Study Resources & Links
 
 - **Official Exam Guide:**  
-  Refer to the [AWS Certified Cloud Practitioner (CLF-C02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf).
+  - Refer to the [AWS Certified Cloud Practitioner (CLF-C02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf).
 
 - **Courses & Videos:**  
-  [Academind’s AWS Certified Cloud Practitioner Udemy Course](https://www.udemy.com/course/aws-cloud-practitioner-complete-aws-introduction/?couponCode=KEEPLEARNING)  
+  - [Academind’s AWS Certified Cloud Practitioner Udemy Course](https://www.udemy.com/course/aws-cloud-practitioner-complete-aws-introduction/?couponCode=KEEPLEARNING)  
   *(Use code KEEPLEARNING for a discount.)*
 
 - **Personal Study Notes:**  
-  [Google Doc with aggregated notes](https://docs.google.com/document/d/1jTemio0-St6Dj2EAAqtLSeUwGLVZL1nWLLigqiemryY/edit?usp=sharing)
+  - [Google Doc with aggregated notes](https://docs.google.com/document/d/1jTemio0-St6Dj2EAAqtLSeUwGLVZL1nWLLigqiemryY/edit?usp=sharing)
 
 - **Quizlets:**  
   - [AWS Certified Cloud Practitioner Core Concepts](https://quizlet.com/960488934/aws-certified-cloud-practitioner-clf-c02-concepts-flash-cards/?i=obqpj&x=1jqt)  
   - [Udemy Course Practice Quizzes](https://quizlet.com/962594976/aws-cloud-practitioner-udemy-course-all-practice-quizzes-aggregated-flash-cards/?i=obqpj&x=1jqt)
 
 - **Additional AWS Resources:**  
-  [AWS Official Documentation](https://docs.aws.amazon.com/)  
-  [AWS CloudQuest Skill Builder (Free)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner)  
-  [r/AWSCertifications on Reddit](https://www.reddit.com/r/AWSCertifications/comments/1d1xg1p/aws_certified_cloud_practitioner_clfc02_ccp/)
+  - [AWS Official Documentation](https://docs.aws.amazon.com/)  
+  - [AWS CloudQuest Skill Builder (Free)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner)  
+  - [r/AWSCertifications on Reddit](https://www.reddit.com/r/AWSCertifications/comments/1d1xg1p/aws_certified_cloud_practitioner_clfc02_ccp/)
 
-## After Passing the Exam
+## After Passing the Exam:
 
 Congratulations on earning your certification! Here are a few next steps:
 
